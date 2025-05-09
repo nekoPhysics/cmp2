@@ -3,3 +3,7 @@
 Makefile
 *.sh
 /output
+*.exe
+*
+!*.cpp
+!README.md
