@@ -1,3 +1,0 @@
-課題5.1の解答:
-    for.cppの変更後の実行結果 : sum = 6, mul =6
-    while.cppの変更後の実行結果 : sum = 3, mul = 2
