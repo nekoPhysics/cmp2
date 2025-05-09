@@ -4,6 +4,6 @@ Makefile
 *.sh
 /output
 *.exe
-*
+*.obj
 !*.cpp
 !README.md
