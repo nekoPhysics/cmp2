@@ -1,14 +1,13 @@
 #include<stdio.h>
-/*c++ filename.cpp 
-./a.out */
+
 
 int main(void){
     //def
-    double X, Y;
-    int n, N;
-    X = 0;
-    n = 1.0;
-    N = 5;
+    double X = 0;
+    double Y = 0;
+    int n;
+    int N = 5.0;
+
     //for
     for(n = 1; n <= N; n++){
         if((n & 1) == 0){
