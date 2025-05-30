@@ -1,6 +1,4 @@
 #include<stdio.h>
-/*c++ filename.cpp 
-./a.out */
 
 
 int main(void){
