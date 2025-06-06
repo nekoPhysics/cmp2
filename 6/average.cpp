@@ -1,10 +1,9 @@
 #include<stdio.h>
-/*c++ filename.cpp 
-./a.out */
 
 
 double ave(double x, double y){
     double wk;
+    wk = (x + y) / 2.0;
     return wk;
 }
 

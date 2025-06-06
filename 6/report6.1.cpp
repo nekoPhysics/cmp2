@@ -2,9 +2,6 @@
 #include<math.h>
 #define PI 3.1415926535
 
-/*c++ filename.cpp 
-./a.out */
-
 
 double Intgrl(double a, double b, int N);
 
@@ -24,8 +21,10 @@ int main (void){
     return 0;
 }
 
-
 double Intgrl(double a, double b, int N){
+    // integral of sin(x) from a to b
+    // using the remannt rectangle method
+    //return ans -> double
     double x, dx, ans;
     ans = 0.0;
     x = a;
