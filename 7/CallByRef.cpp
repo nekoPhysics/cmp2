@@ -1,5 +1,6 @@
 # include <stdio.h>
 
+
 double func(double &a){
     a = a * 2.0;
     return a;

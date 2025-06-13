@@ -1,14 +1,12 @@
 #include <stdio.h>
 
-// double型のaを受け取り、aを2倍にして返す関数
-double func(double a)
-{
+
+double func(double a){
     a = a * 2.0;
     return a;
 }
 
-int main(void)
-{
+int main(void){
     // definition
     double a, ans;
 
