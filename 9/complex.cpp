@@ -8,7 +8,6 @@ using namespace std;
 const complex<double> I(0.0, 1.0);
 
 int main(void) {
-    //a = 0.1 + I*2.0, b = 0.0 + I*0.0
     complex<double> a(0.1, 2.1);
     complex<double> b, c;
 
